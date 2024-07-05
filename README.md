@@ -3,4 +3,5 @@ Univert is a basic android application designed to convert values from kilograms
 
 <h4>Snapshot of the App</h4>
 
-![image](https://github.com/khushi-242k02/Univert-Basic-App/assets/171707244/cccfc02c-658d-4d2e-a633-612aee64f11e)
+![imgonline-com-ua-twotoone-3DeuyTbXlcptq](https://github.com/khushi-242k02/Univert-Basic-App/assets/171707244/46530918-3dce-497b-8f96-e804a6f4a93c)
+
